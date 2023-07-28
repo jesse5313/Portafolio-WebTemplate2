@@ -25,8 +25,11 @@ Este proyecto es una página web que presenta una lista de servicios y contactos
 
 ## Vista previa del proyecto
 Si quieres hechas un vistazo al proyecto, te recomiendo:
-![Captura del proyecto]()
-![Captura del proyecto]()
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate2/main/capturas/1.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate2/main/capturas/2.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate2/main/capturas/3.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate2/main/capturas/4.png)
+![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate2/main/capturas/5.png)
 
 ## Visitar Sitio Web 🌐
 
