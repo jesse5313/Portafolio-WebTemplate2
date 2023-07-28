@@ -31,9 +31,6 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 ![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate2/main/capturas/4.png)
 ![Captura del proyecto](https://raw.githubusercontent.com/jesse5313/Portafolio-WebTemplate2/main/capturas/5.png)
 
-## Visitar Sitio Web 🌐
-
-
 ## Conclusión 📝
 Gracias por visitar mi proyecto personal, una página web diseñada para presentar una variedad de servicios y mis datos de contacto. El objetivo de este proyecto es mostrar mi experiencia y habilidades mientras proporciono información útil para aquellos interesados en mis servicios.
 
