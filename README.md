@@ -35,7 +35,11 @@ Si quieres hechas un vistazo al proyecto, te recomiendo:
 
 
 ## Conclusión 📝
+Gracias por visitar mi proyecto personal, una página web diseñada para presentar una variedad de servicios y mis datos de contacto. El objetivo de este proyecto es mostrar mi experiencia y habilidades mientras proporciono información útil para aquellos interesados en mis servicios.
 
+Destacando un diseño responsivo, un menú de navegación sencillo, una sección de precios transparente, un formulario de contacto y animaciones de scroll, he buscado brindar una experiencia agradable e interactiva para los visitantes.
+
+Si tienes alguna pregunta o estás interesado/a en colaborar, no dudes en ponerte en contacto conmigo. ¡Espero que disfrutes explorando mi página y conozcas más sobre mis servicios!
 
 ## Autor ✒️
 **Jesse Salomon Carranza Torres**         
